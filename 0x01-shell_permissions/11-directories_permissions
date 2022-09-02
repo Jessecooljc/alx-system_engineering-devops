@@ -1,2 +1,2 @@
 #!/bin/bash
-chm9d -R a+X .
+chmod -R a+X .
