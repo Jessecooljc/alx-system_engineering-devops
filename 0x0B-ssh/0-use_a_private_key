@@ -3,4 +3,3 @@
 # stored in a file school Found in the users home directory
 
 ssh -i ~/.ssh/school ubuntu@100.25.203.209
-
